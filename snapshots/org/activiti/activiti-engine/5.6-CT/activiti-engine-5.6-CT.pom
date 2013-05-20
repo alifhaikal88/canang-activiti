@@ -6,7 +6,7 @@
     <name>Activiti - Engine</name>
     <groupId>org.activiti</groupId>
     <artifactId>activiti-engine</artifactId>
-    <version>5.6</version>
+    <version>5.6-CT</version>
 
     <parent>
         <groupId>org.activiti</groupId>
